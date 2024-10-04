@@ -7,7 +7,7 @@ function menu() {
     initialiser();
     afficher("Encodage");
     saut(2);
-    afficher("<input type=text id=texte placeholder='Mettez votre message à crypter/décrypter ici' />");
+    afficher("<input type=text id=texte placeholder='Mettez votre message à coder/décoder ici' />");
     saut(2);
     afficher("César");
     saut();
