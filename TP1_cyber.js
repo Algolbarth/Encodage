@@ -5,7 +5,7 @@ function demarrage() {
 
 function menu() {
     initialiser();
-    afficher("TP1 Cybersécurité");
+    afficher("Encodage");
     saut(2);
     afficher("<input type=text id=texte placeholder='Mettez votre message à crypter/décrypter ici' />");
     saut(2);
